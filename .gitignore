@@ -1,0 +1,25 @@
+
+.ipynb_checkpoints/
+external/
+output/
+old/
+result/
+design/
+exclude/
+large/
+data/
+log/
+data-old/
+
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+
+*.ipynb
+
+*.pyc
+# *.mat 
+# *.h5
+# *.png
+*.asv
+# *.fig
