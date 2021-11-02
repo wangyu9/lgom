@@ -1,6 +1,6 @@
 # learning discrete geometry operators
 
-This repo include the code for the paper
+This repo includes the code for the paper
 
 “Learning Geometric Operators on Meshes”
 
