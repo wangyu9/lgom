@@ -3,11 +3,14 @@
 This repo include the code for the paper
 
 “Learning Geometric Operators on Meshes”
+
 International Conference on Learning Representations (ICLR) Workshop 2019
+
 Yu Wang, Vladimir Kim, Michael Bronstein and Justin Solomon
 
 https://rlgm.github.io/papers/28.pdf
 
+#
 
 Download the data and unzip:
 
